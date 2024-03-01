@@ -2,6 +2,7 @@
 title: Javaで頻繁に変更される文字列を扱うならStringBuilder
 tags:
   - 'Java'
+  - 'StringBuilder'
 private: false
 updated_at: ''
 id: null
